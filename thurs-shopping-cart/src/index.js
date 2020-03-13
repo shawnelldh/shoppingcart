@@ -9,7 +9,7 @@ const products = [
 
 {
  id: 1,
- name:"Apple",
+ name:"Shirt1",
  description: "",
  img:"//cdn.shopify.com/s/files/1/0312/6537/products/1306583-400_F_1024x1024.jpg?v=1571273264",
  price: 100 
@@ -20,7 +20,7 @@ const products = [
 
 {
  id: 2,
- name:"RubberDuckie",
+ name:"Shirt2",
  description: "",
  img:"//cdn.shopify.com/s/files/1/0312/6537/products/1290140_Red_Graphite_Graphite-F_1024x1024.jpg?v=1571269329",
  price: 100 
@@ -32,7 +32,7 @@ const products = [
 
 {
  id: 3,
- name:"RubberDuckie2",
+ name:"Shirt3",
  description: "",
  img:"//cdn.shopify.com/s/files/1/0312/6537/products/OG101_roguegrey_1200x1200_e2cae931-7583-42bb-8bc4-655ef550b490_1024x1024.gif?v=1571273220",
  price: 100 
